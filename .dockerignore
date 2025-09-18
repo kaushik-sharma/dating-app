@@ -1,0 +1,14 @@
+.DS_Store
+.git
+node_modules
+src
+Dockerfile
+docker-compose-dev.yaml
+docker-compose-prod.yaml
+deploy-dev.sh
+deploy-prod.sh
+deployment-dev.yaml
+deployment-prod.yaml
+dev-rbac.yaml
+ngrok-deployment.yaml
+tsconfig.json

@@ -1,0 +1,17 @@
+.DS_Store
+
+node_modules/
+
+dist/
+
+.env.development
+.env.production
+
+jwt-dev-private-key.pem
+jwt-dev-public-key.pem
+jwt-prod-private-key.pem
+jwt-prod-public-key.pem
+
+serviceAccountKey.json
+
+supabase-ca-dev.crt
